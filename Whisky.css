@@ -2054,21 +2054,141 @@
     height: 350px;
   }
 }.u-section-10 {
+  background-image: none;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 710px;
+}
+
+.u-section-10 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin: 60px auto 60px 0;
+}
+
+.u-section-10 .u-image-1 {
+  min-height: 590px;
+  pointer-events: auto;
+  background-image: url("images/43cremadewhiskycolomabotella1.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-10 .u-layout-cell-2 {
+  min-height: 590px;
+  pointer-events: auto;
+}
+
+.u-section-10 .u-container-layout-2 {
+  padding: 30px 15px 30px 60px;
+}
+
+.u-section-10 .u-text-1 {
+  margin: 209px 45px 0 0;
+}
+
+.u-section-10 .u-text-2 {
+  font-weight: 700;
+  margin: 76px 45px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-10 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 486px;
+  }
+
+  .u-section-10 .u-layout-cell-2 {
+    min-height: 486px;
+  }
+
+  .u-section-10 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 372px;
+  }
+
+  .u-section-10 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-10 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-10 .u-container-layout-2 {
+    padding-left: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 558px;
+  }
+
+  .u-section-10 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-10 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 351px;
+  }
+}.u-section-11 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/alcoholic-beverages-1845295_1920.webp");
   background-position: 50% 50%;
 }
 
-.u-section-10 .u-sheet-1 {
+.u-section-11 .u-sheet-1 {
   min-height: 469px;
 }
 
-.u-section-10 .u-text-1 {
+.u-section-11 .u-text-1 {
   font-size: 1.25rem;
   width: 670px;
   margin: 57px auto 0;
 }
 
-.u-section-10 .u-social-icons-1 {
+.u-section-11 .u-social-icons-1 {
   white-space: nowrap;
   height: 48px;
   min-height: 16px;
@@ -2077,15 +2197,15 @@
   margin: 39px auto 0;
 }
 
-.u-section-10 .u-icon-1 {
+.u-section-11 .u-icon-1 {
   height: 100%;
 }
 
-.u-section-10 .u-icon-2 {
+.u-section-11 .u-icon-2 {
   height: 100%;
 }
 
-.u-section-10 .u-btn-1 {
+.u-section-11 .u-btn-1 {
   border-style: none;
   text-transform: uppercase;
   font-size: 0.875rem;
@@ -2095,19 +2215,19 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-10 .u-sheet-1 {
+  .u-section-11 .u-sheet-1 {
     min-height: 436px;
   }
 
-  .u-section-10 .u-text-1 {
+  .u-section-11 .u-text-1 {
     margin-top: 40px;
   }
 
-  .u-section-10 .u-social-icons-1 {
+  .u-section-11 .u-social-icons-1 {
     margin-right: 402px;
   }
 
-  .u-section-10 .u-btn-1 {
+  .u-section-11 .u-btn-1 {
     margin-top: 39px;
     margin-right: 358px;
     margin-bottom: 40px;
@@ -2115,23 +2235,23 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-10 .u-sheet-1 {
+  .u-section-11 .u-sheet-1 {
     min-height: 450px;
   }
 
-  .u-section-10 .u-text-1 {
+  .u-section-11 .u-text-1 {
     width: auto;
     margin-top: 45px;
     margin-left: 25px;
     margin-right: 25px;
   }
 
-  .u-section-10 .u-social-icons-1 {
+  .u-section-11 .u-social-icons-1 {
     margin-top: 30px;
     margin-right: auto;
   }
 
-  .u-section-10 .u-btn-1 {
+  .u-section-11 .u-btn-1 {
     margin-top: 45px;
     margin-right: auto;
     margin-bottom: 51px;
@@ -2139,35 +2259,35 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-10 .u-text-1 {
+  .u-section-11 .u-text-1 {
     margin-top: 44px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-10 .u-social-icons-1 {
+  .u-section-11 .u-social-icons-1 {
     margin-top: 32px;
   }
 
-  .u-section-10 .u-btn-1 {
+  .u-section-11 .u-btn-1 {
     margin-top: 44px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-10 .u-sheet-1 {
+  .u-section-11 .u-sheet-1 {
     min-height: 546px;
   }
 
-  .u-section-10 .u-text-1 {
+  .u-section-11 .u-text-1 {
     margin-top: 48px;
   }
 
-  .u-section-10 .u-social-icons-1 {
+  .u-section-11 .u-social-icons-1 {
     margin-top: 30px;
   }
 
-  .u-section-10 .u-btn-1 {
+  .u-section-11 .u-btn-1 {
     margin-top: 42px;
   }
 }
