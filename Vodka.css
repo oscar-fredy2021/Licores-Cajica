@@ -32,10 +32,6 @@
   margin: 20px 0 0;
 }
 
-.u-section-1 .u-product-price-1 {
-  margin: 20px auto 0;
-}
-
 .u-section-1 .u-container-layout-2 {
   padding: 30px 20px 13px;
 }
@@ -48,10 +44,6 @@
 
 .u-section-1 .u-text-2 {
   margin: 20px 0 0;
-}
-
-.u-section-1 .u-product-price-2 {
-  margin: 20px auto 0;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -68,10 +60,6 @@
   margin: 20px 0 0;
 }
 
-.u-section-1 .u-product-price-3 {
-  margin: 20px auto 0;
-}
-
 .u-section-1 .u-container-layout-4 {
   padding: 30px 20px 13px;
 }
@@ -84,10 +72,6 @@
 
 .u-section-1 .u-text-4 {
   margin: 20px 0 0;
-}
-
-.u-section-1 .u-product-price-4 {
-  margin: 20px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -261,10 +245,6 @@
   margin: 12px 0 0;
 }
 
-.u-section-2 .u-product-price-1 {
-  margin: 20px auto 0;
-}
-
 .u-section-2 .u-container-layout-2 {
   padding: 30px 20px 13px;
 }
@@ -278,10 +258,6 @@
 
 .u-section-2 .u-text-2 {
   margin: 12px 0 0;
-}
-
-.u-section-2 .u-product-price-2 {
-  margin: 20px auto 0;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -299,10 +275,6 @@
   margin: 12px 0 0;
 }
 
-.u-section-2 .u-product-price-3 {
-  margin: 20px auto 0;
-}
-
 .u-section-2 .u-container-layout-4 {
   padding: 30px 20px 13px;
 }
@@ -316,10 +288,6 @@
 
 .u-section-2 .u-text-4 {
   margin: 12px 0 0;
-}
-
-.u-section-2 .u-product-price-4 {
-  margin: 20px auto 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -501,16 +469,12 @@
   margin: 86px 0 0;
 }
 
-.u-section-3 .u-text-2 {
-  margin: 36px 0 0;
-}
-
 .u-section-3 .u-btn-1 {
   border-style: none;
   text-transform: uppercase;
   font-size: 0.875rem;
   background-image: none;
-  margin: 51px 114px 0 auto;
+  margin: 36px 114px 0 auto;
   padding: 8px 27px 8px 26px;
 }
 
