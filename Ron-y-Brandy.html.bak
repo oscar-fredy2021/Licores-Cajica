@@ -6,9 +6,9 @@
     <meta name="keywords" content="Los mejores licoresnacionales e importadas">
     <meta name="description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Tequila y Mezcal</title>
+    <title>Ron y Brandy</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="stylesheet" href="Tekila-y-Mezcal.css" media="screen">
+    <link rel="stylesheet" href="Ron-y-Brandy.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer="defer"></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer="defer"></script>
     <link rel="icon" href="images/favicon.ico">
@@ -20,7 +20,7 @@
 		"name": "Licores Cajica 24-7",
 		"logo": "images/Logo.png"
 }</script>
-    <meta property="og:title" content="Tekila y Mezcal">
+    <meta property="og:title" content="Ron y Brandy">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="theme-color" content="#478ac9">
@@ -173,188 +173,22 @@
         </nav>
       </div>
     </header>
-    <section class="u-align-center u-black u-clearfix u-section-1" id="sec-ea03">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/7501048810406.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Centenario
-                    Añejo</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">700 ml</a></h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/donjulio70.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don Julio me
-                    quito el sombrero</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/donjulioreposado.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don Julio
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
-
-          class="u-btn u-btn-round u-button-style u-custom-color-3 u-radius-50 u-btn-1"
-
-          target="_blank">VER LISTA DE PRECIOS</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-2" id="sec-9e3a">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/28donjulioaejobotella1.webp" data-image-width="545"
-
-                  data-image-height="768"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don Julio Añejo</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/don-julio-blanco.webp" data-image-width="414" data-image-height="506"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don julio
-                    Blanco Reserva</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/herradura+a%C3%B1ejo.webp" data-image-width="600"
-
-                  data-image-height="748"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Herradura Añejo</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-52 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-3" id="sec-f703">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/30herradurareposado.webp" data-image-width="557" data-image-height="700"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Herradura
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/TEQUILA-ULTRA.webp" data-image-width="600" data-image-height="699"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Herradura Ultra
-                    Cristalino</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/32jimador.webp" data-image-width="600" data-image-height="766"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Jimador
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-54 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="carousel_250a">
-      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+    <section class="u-align-center u-clearfix u-grey-90 u-section-1" id="sec-7e4c">
+      <div class="u-clearfix u-sheet u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
             <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/jimador375.webp" data-image-width="639" data-image-height="744"><!--/product_image--><!--product_title-->
+                  src="images/22bacardiaejo.webp" data-image-width="640" data-image-height="744"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-1"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jimador Reposado</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi añejo</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-1"><a
 
-                    class="u-product-title-link" href="#">375 ml<!--/product_title_content--></a>
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
                 </h5>
                 <!--/product_title--> </div>
             </div>
@@ -363,13 +197,11 @@
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/jimador%20Cristalino.webp" data-image-width="500"
-
-                  data-image-height="500"><!--/product_image--><!--product_title-->
+                  src="images/bacardicartablanca.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-2"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jimador Cristalino</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi carta blanca</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-2"><a
 
                     class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
@@ -381,11 +213,13 @@
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/31jimadorblanco.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
+                  src="images/ron-bacardi-mojito-07l.webp" data-image-width="800"
+
+                  data-image-height="800"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-3"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jimador Blanco</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi Mojito</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-3"><a
 
                     class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
@@ -397,13 +231,11 @@
               <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
 
-                  src="images/TEQUILA-JOSE-CUERVO-TRADICIONAL-750-ML-web.webp" data-image-width="582"
-
-                  data-image-height="907"><!--/product_image--><!--product_title-->
+                  src="images/BACARDI-MANDARINA.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-4"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jose Cuervo Tradicional</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi Mandarina</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-4"><a
 
                     class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
@@ -412,150 +244,266 @@
             </div>
             <!--/product_item--> </div>
         </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-4 u-radius-50 u-btn-1"
+        <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
 
-          target="_blank">Pide por Whatsapp</a> </div>
+          class="u-btn u-btn-round u-button-style u-custom-color-27 u-radius-50 u-btn-1"
+
+          target="_blank">VER LISTA DE PRECIOS</a> </div>
     </section>
-    <section class="u-align-center u-black u-clearfix u-section-5" id="sec-d40f">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+    <section class="u-align-center u-clearfix u-grey-90 u-section-2" id="carousel_f861">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/36josecuervo.webp" data-image-width="645" data-image-height="894"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
+                  src="images/1916092.webp" data-image-width="959" data-image-height="983"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
 
-                    href="#"><!--product_title_content-->Tequila Jose Cuervo
-                    Especial</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi Limon</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
 
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/josecuervoplata.webp" data-image-width="600" data-image-height="710"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
+                  src="images/23bacardilimon375.webp" data-image-width="640" data-image-height="744"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
 
-                    href="#"><!--product_title_content-->Tequila Jose Cuervo
-                    Plata</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi Limon</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
 
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
+                    class="u-product-title-link" href="#">375 ml<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/Olmeca_Altos_Reposado.webp" data-image-width="400"
+                  src="images/Ron-Bahama.webp" data-image-width="500" data-image-height="500"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
 
-                  data-image-height="400"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Bacardi Bahama Mama</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
 
-                    href="#"><!--product_title_content-->Tequila Olmeca Altos
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-76 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-6" id="sec-9eb2">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/34olmecareposado.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Olmeca Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
 
-                  src="images/Olmeca%20blanco.webp" data-image-width="600" data-image-height="600"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Olmeca Blanco</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/35patronreposadobotella.webp" data-image-width="1000"
-
-                  data-image-height="1000"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Patrón Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-76 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-6" id="sec-9eb2">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/Patron%20Silver.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Patrón Silver</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/TEQUILA-3-CABALLOS-LICORERA-PREMIUM.webp" data-image-width="600"
+                  src="images/cartavio.webp" data-image-width="600"
 
                   data-image-height="600"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Cartavcio Añejo</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-34 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-90 u-section-3" id="carousel_71b0">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/diplomatico.webp" data-image-width="340" data-image-height="340"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Diplomatico Montuano</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
+
+                    class="u-product-title-link" href="#">700 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/Ron-Flor-de-Caña.webp" data-image-width="639"
+
+                  data-image-height="744"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Flor de Caña 4 años</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/La_echicera.webp" data-image-width="640" data-image-height="744"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    La Hechicera </a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
+
+                  src="images/17ronmedellinbotella.webp" data-image-width="600" data-image-height="698"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Medellin Dorado</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-34 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="carousel_28a8">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/18ronmedellinmedia.webp" data-image-width="871" data-image-height="1065"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Medellin Dorado</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
+
+                    class="u-product-title-link" href="#">375 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/18doradoaejo.webp" data-image-width="1000" data-image-height="1250"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Medellin Añejo</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/medellinañejop1000.webp" data-image-width="1000" data-image-height="1250"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Medellin Añejo</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
+
+                    class="u-product-title-link" href="#">1000 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
+
+                  src="images/santafelitro.webp" data-image-width="639" data-image-height="744"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Sante Fé Añejo</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">1000 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-34 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-black u-clearfix u-section-5" id="sec-dbdd">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/santa-fe-4-aos.webp" data-image-width="700"
+
+                  data-image-height="700"><!--/product_image--><!--product_title-->
+                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
+
+                    href="#"><!--product_title_content-->Ron Sante Añejo</a></h5>
+                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+
+                    href="#">750 ml<!--/product_title_content--></a> </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/santa-femedia.webp" data-image-width="1280" data-image-height="1280"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tres Caballos Reposado</a></h5>
+                    href="#"><!--product_title_content-->Ron Santa Fé Añejo</a></h5>
                 <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
 
-                    href="#">1000 ml<!--/product_title_content--></a> </h5>
+                    href="#">375 ml<!--/product_title_content--></a> </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -563,13 +511,161 @@
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/1800silver.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
+                  src="images/15nidodecondores.webp" data-image-width="643"
+
+                  data-image-height="858"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tequila 1800 Silver</a></h5>
+                    href="#"><!--product_title_content-->Ron Santa Fé Nido De Condores 12 Años</a></h5>
                 <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
 
                     href="#">750 ml<!--/product_title_content--></a> </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-34 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="carousel_28a8">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/santa_fe_8_a195177os.webp" data-image-width="871" data-image-height="1065"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Santa Fé 8 años</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/Viejodecaldaslitro.webp" data-image-width="1000" data-image-height="1250"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Viejo de Caldas Tradicional</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
+
+                    class="u-product-title-link" href="#">1000 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/viejo_caldas_tradicional_750ml.webp" data-image-width="1000" data-image-height="1250"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Viejo de Caldas Tradicional</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
+
+                  src="images/ronviejomedia.webp" data-image-width="639" data-image-height="744"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Viejo de Caldas Tradicional</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">375 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+         <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-34 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="carousel_28a8">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/21ronviejojuan.webp" data-image-width="871" data-image-height="1065"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Viejo de Caldas Juan de la Cruz</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
+
+                    class="u-product-title-link" href="#">375 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/V de caldas8años.webp" data-image-width="1000" data-image-height="1250"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Viejo de Caldas 8 años</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
+
+                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/viejo8aosmedia.webp" data-image-width="1000" data-image-height="1250"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Viejo de Caldas 8 años</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
+
+                    class="u-product-title-link" href="#">1000 ml<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
+
+                  src="images/santafelitro.webp" data-image-width="639" data-image-height="744"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ron
+                    Sante Fé Añejo</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">1000 ml<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--> </div>
@@ -580,107 +676,7 @@
 
           target="_blank">VER LISTA DE PRECIOS</a> </div>
     </section>
-    <section class="u-align-center u-black u-clearfix u-section-7" id="carousel_314d">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/1800-Cristalino-.webp" data-image-width="768" data-image-height="768"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila 1800 Cristalino</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/gallery_5.webp" data-image-width="2088" data-image-height="2209"><!--/product_image--><!--product_title-->
-                <h4 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content--><!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/1800reposado.webp" data-image-width="700" data-image-height="700"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila 1800 Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-         <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
-
-          class="u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-1"
-
-          target="_blank">VER LISTA DE PRECIOS</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-7" id="carousel_314d">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/38montelobo.webp" data-image-width="768" data-image-height="768"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Mezcal Montelobos</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/Coctel.webp" data-image-width="2088" data-image-height="2209"><!--/product_image--><!--product_title-->
-                <h4 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content--><!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/Alipussantaana.webp" data-image-width="700" data-image-height="700"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Mezcal Alipus Santa Ana</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-76 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-clearfix u-image u-shading u-section-8" data-image-width="1600"
+    <section class="u-align-center u-clearfix u-image u-shading u-section-7" data-image-width="1600"
 
       data-image-height="1201" id="sec-6678">
       <div class="u-clearfix u-sheet u-sheet-1">
@@ -693,7 +689,7 @@
           Síguenos en nuestras redes sociales. </p>
         <div class="u-social-icons u-spacing-20 u-social-icons-1"> <a class="u-social-url"
 
-            target="_blank" href="https://www.facebook.com/licorescajica/" title="Licores Cajicá"><span
+            target="_blank" href="https://www.instagram.com/licorescajica/" title="Licores Cajicá"><span
 
               class="u-icon u-icon-circle u-social-facebook u-social-icon u-icon-1">
               <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112"
@@ -722,7 +718,9 @@
 
               x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;¿Haz
           tu pedido Ya! </a> </div>
-    </section>
+      <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
+
+        target="_blank">Pide por Whatsapp</a> </section>
     <footer class="u-align-center u-clearfix u-footer u-grey-90 u-footer" id="sec-7602">
       <div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">Licores Cajicá

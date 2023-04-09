@@ -3,12 +3,12 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Los mejores licoresnacionales e importadas">
+    <meta name="keywords" content="Cervezas nacionales e importadas">
     <meta name="description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Tequila y Mezcal</title>
+    <title>Cervezas</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="stylesheet" href="Tekila-y-Mezcal.css" media="screen">
+    <link rel="stylesheet" href="Cervezas.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer="defer"></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer="defer"></script>
     <link rel="icon" href="images/favicon.ico">
@@ -20,7 +20,7 @@
 		"name": "Licores Cajica 24-7",
 		"logo": "images/Logo.png"
 }</script>
-    <meta property="og:title" content="Tekila y Mezcal">
+    <meta property="og:title" content="Cervezas">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="theme-color" content="#478ac9">
@@ -46,9 +46,9 @@
                 style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve"
 
                 class="u-svg-content"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
-            </span> </button> <input class="u-search-input" name="search" placeholder="Buscar"
+            </span> </button> <input class="u-search-input" name="search" value=""
 
-            type="search"> </form>
+            placeholder="Buscar" type="search"> </form>
         <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font" style="font-family: Candal;">
             <a class="u-button-style u-custom-text-active-color u-custom-text-hover-color u-nav-link"
@@ -67,13 +67,15 @@
 
                     y="236" width="302" height="30"></rect><rect y="136" width="302"
 
-                    height="30"></rect> </g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+                    height="30"></rect>
+                </g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
             </a> </div>
           <div class="u-custom-menu u-nav-container">
             <ul class="u-custom-font u-nav u-unstyled u-nav-1">
               <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-5-base"
 
-                  href="Inicio.html" style="padding: 10px 20px;">Inicio</a> </li>
+                  href="Inicio.html" style="padding: 10px 20px;">Inicio</a>
+              </li>
               <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-5-base"
 
                   href="Cervezas.html" style="padding: 10px 20px;">Cervezas</a>
@@ -85,26 +87,32 @@
                   <ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
-                        href="Aguardiente.html">Aguardiente</a> </li>
+                        href="Aguardiente.html">Aguardiente</a>
+                    </li>
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
                         href="Ginebra-y-aperitivos.html">Ginebra y aperitivos</a>
                     </li>
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
-                        href="Ron-y-Brandy.html">Ron y Brandy</a> </li>
+                        href="Ron-y-Brandy.html">Ron y Brandy</a>
+                    </li>
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
-                        href="Tekila-y-Mezcal.html">Tequila y Mezcal</a> </li>
+                        href="Tekila-y-Mezcal.html">Tequila y Mezcal</a>
+                    </li>
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
-                        href="Whisky.html">Whisky</a> </li>
+                        href="Whisky.html">Whisky</a>
+                    </li>
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
-                        href="Vodka.html">Vodka</a> </li>
+                        href="Vodka.html">Vodka</a>
+                    </li>
                     <li class="u-nav-item"><a class="u-button-style u-nav-link u-white"
 
-                        href="Vinos.html">Vinos</a> </li>
+                        href="Vinos.html">Vinos</a>
+                    </li>
                   </ul>
                 </div>
               </li>
@@ -125,10 +133,12 @@
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3">
                   <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Inicio.html"
 
-                      style="padding: 10px 20px;">Inicio</a> </li>
+                      style="padding: 10px 20px;">Inicio</a>
+                  </li>
                   <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Cervezas.html"
 
-                      style="padding: 10px 20px;">Cervezas</a> </li>
+                      style="padding: 10px 20px;">Cervezas</a>
+                  </li>
                   <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Licores.html"
 
                       style="padding: 10px 20px;">Licores</a>
@@ -136,35 +146,44 @@
                       <ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4">
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
-                            href="Aguardiente.html">Aguardiente</a> </li>
+                            href="Aguardiente.html">Aguardiente</a>
+                        </li>
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
                             href="Ginebra-y-aperitivos.html">Ginebra y
-                            aperitivos</a> </li>
+                            aperitivos</a>
+                        </li>
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
-                            href="Ron-y-Brandy.html">Ron y Brandy</a> </li>
+                            href="Ron-y-Brandy.html">Ron y Brandy</a>
+                        </li>
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
-                            href="Tekila-y-Mezcal.html">Tequila y Mezcal</a> </li>
+                            href="Tekila-y-Mezcal.html">Tequila y Mezcal</a>
+                        </li>
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
-                            href="Whisky.html">Whisky</a> </li>
+                            href="Whisky.html">Whisky</a>
+                        </li>
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
-                            href="Vodka.html">Vodka</a> </li>
+                            href="Vodka.html">Vodka</a>
+                        </li>
                         <li class="u-nav-item"><a class="u-button-style u-nav-link"
 
-                            href="Vinos.html">Vinos</a> </li>
+                            href="Vinos.html">Vinos</a>
+                        </li>
                       </ul>
                     </div>
                   </li>
                   <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Cigarrillos.html"
 
-                      style="padding: 10px 20px;">Cigarrillos</a> </li>
+                      style="padding: 10px 20px;">Cigarrillos</a>
+                  </li>
                   <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Acompa%C3%B1antes.html"
 
-                      style="padding: 10px 20px;">Acompañantes</a> </li>
+                      style="padding: 10px 20px;">Acompañantes</a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -173,188 +192,41 @@
         </nav>
       </div>
     </header>
-    <section class="u-align-center u-black u-clearfix u-section-1" id="sec-ea03">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+    <section class="u-align-center u-clearfix u-image u-shading u-section-1" src=""
 
-                  src="images/7501048810406.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
+      data-image-width="1280" data-image-height="959" id="sec-827f">
+      <div class="u-align-center u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-custom-font u-text u-text-1">Cervezas nacionales e
+          importadas&nbsp;</h2>
+        <p class="u-text u-text-2">Cervezas nacionales e importadas de las
+          mejores marcas, y a domicilio.&nbsp;<br>
+          ¡Pide ya! En Cajicá, Chía, Tabio, Guaymaral y Briceño.&nbsp;<br>
+          Servicio 24/7. </p>
+        <a href="tel:3053613029" class="u-btn u-btn-round u-button-style u-radius-50 u-white u-btn-1"><span
 
-                    href="#"><!--product_title_content-->Tequila Centenario
-                    Añejo</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+            class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64"
 
-                    href="#">700 ml</a></h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/donjulio70.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don Julio me
-                    quito el sombrero</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/donjulioreposado.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don Julio
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
-
-          class="u-btn u-btn-round u-button-style u-custom-color-3 u-radius-50 u-btn-1"
-
-          target="_blank">VER LISTA DE PRECIOS</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-2" id="sec-9e3a">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/28donjulioaejobotella1.webp" data-image-width="545"
-
-                  data-image-height="768"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don Julio Añejo</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/don-julio-blanco.webp" data-image-width="414" data-image-height="506"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Don julio
-                    Blanco Reserva</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/herradura+a%C3%B1ejo.webp" data-image-width="600"
-
-                  data-image-height="748"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Herradura Añejo</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-52 u-radius-50 u-btn-1"
+              x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;¡Pide
+          YA! </a> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
 
           target="_blank">Pide por Whatsapp</a> </div>
     </section>
-    <section class="u-align-center u-black u-clearfix u-section-3" id="sec-f703">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/30herradurareposado.webp" data-image-width="557" data-image-height="700"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Herradura
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/TEQUILA-ULTRA.webp" data-image-width="600" data-image-height="699"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Herradura Ultra
-                    Cristalino</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/32jimador.webp" data-image-width="600" data-image-height="766"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila Jimador
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-54 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="carousel_250a">
-      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+    <section class="u-align-center u-clearfix u-grey-90 u-section-2" id="sec-b9e2">
+      <div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
             <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/jimador375.webp" data-image-width="639" data-image-height="744"><!--/product_image--><!--product_title-->
+                  src="images/petaco-aguila.webp" data-image-width="1024" data-image-height="1024"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-1"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jimador Reposado</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Águila
+                    botella</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-1"><a
 
-                    class="u-product-title-link" href="#">375 ml<!--/product_title_content--></a>
+                    class="u-product-title-link" href="#">canasta<!--/product_title_content--></a>
                 </h5>
                 <!--/product_title--> </div>
             </div>
@@ -363,16 +235,14 @@
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/jimador%20Cristalino.webp" data-image-width="500"
-
-                  data-image-height="500"><!--/product_image--><!--product_title-->
+                  src="images/5aguila.webp" data-image-width="874" data-image-height="510"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-2"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jimador Cristalino</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Águila
+                    lata</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-2"><a
 
-                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                    class="u-product-title-link" href="#">six pack<!--/product_title_content--></a>
                 </h5>
                 <!--/product_title--> </div>
             </div>
@@ -381,14 +251,14 @@
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/31jimadorblanco.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
+                  src="images/4aguilaligth.webp" data-image-width="874" data-image-height="510"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-3"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jimador Blanco</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Águila
+                    ligth lata</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-3"><a
 
-                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                    class="u-product-title-link" href="#">six pack<!--/product_title_content--></a>
                 </h5>
                 <!--/product_title--> </div>
             </div>
@@ -397,17 +267,213 @@
               <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
 
-                  src="images/TEQUILA-JOSE-CUERVO-TRADICIONAL-750-ML-web.webp" data-image-width="582"
+                  src="images/aguila-light-canasta30-piragua.webp" data-image-width="1200"
 
-                  data-image-height="907"><!--/product_image--><!--product_title-->
+                  data-image-height="1200"><!--/product_image--><!--product_title-->
                 <h5 class="u-align-center u-product-control u-text u-text-4"> <a
 
-                    class="u-product-title-link" href="#"><!--product_title_content-->Tequila
-                    Jose Cuervo Tradicional</a></h5>
+                    class="u-product-title-link" href="#"><!--product_title_content-->Águila
+                    light botella</a></h5>
                 <h5 class="u-align-center u-product-control u-text u-text-4"><a
 
-                    class="u-product-title-link" href="#">750 ml<!--/product_title_content--></a>
+                    class="u-product-title-link" href="#">canasta<!--/product_title_content--></a>
                 </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
+
+          class="u-btn u-btn-round u-button-style u-custom-color-5 u-radius-50 u-btn-1"
+
+          target="_blank">VER LISTA DE PRECIOS</a> </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-90 u-section-3" id="sec-69c9">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/aguila00.webp" data-image-width="564" data-image-height="564"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Águila
+                    00 lata</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
+
+                    class="u-product-title-link" href="#">six pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/7702090050578.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ándina
+                    lata</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
+
+                    class="u-product-title-link" href="#">269 ml six pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/13andina.webp" data-image-width="870" data-image-height="507"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Ándina
+                    lata</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
+
+                    class="u-product-title-link" href="#">330 ml six pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
+
+                  src="images/10clubdorada.webp" data-image-width="700"
+
+                  data-image-height="800"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Club Colombia Dorada Lata</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">Six Pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="sec-9740">
+      <div class="u-clearfix u-sheet u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/clubdoradacanasta.webp" data-image-width="824" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Club Colombia Dorada</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
+
+                    class="u-product-title-link" href="#">botella canasta<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/11clubnegra.webp" data-image-width="643" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Club Colombia Negra lata</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
+
+                    class="u-product-title-link" href="#">six pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/12clubroja.webp" data-image-width="663" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Club Colombia Roja Lata</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
+
+                    class="u-product-title-link" href="#">six pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
+
+                  src="images/clubdoradacanasta.webp" data-image-width="663" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Club Colombia Roja</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">botella canasta<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--> </div>
+        </div>
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-8 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
+    <section class="u-align-center u-black u-clearfix u-section-5" id="sec-0ece">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <div class="u-expanded-width u-products u-products-1">
+          <div class="u-repeater u-repeater-1"><!--product_item-->
+            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
+              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
+
+                  src="images/doble_malta.webp" data-image-width="874" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
+
+                    href="#"><!--product_title_content-->Club Colombia doble Malta</a></h5>
+                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+
+                    href="#">botella canasta<!--/product_title_content--></a> </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
+              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
+
+                  src="images/14costea.webp" data-image-width="600" data-image-height="339"><!--/product_image--><!--product_title-->
+                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
+
+                    href="#"><!--product_title_content-->Costeña lata 330</a></h5>
+                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
+
+                    href="#">six pack<!--/product_title_content--></a> </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
+              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
+
+                  src="images/bacana.webp" data-image-width="875" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
+
+                    href="#"><!--product_title_content-->Costeña Bacana</a></h5>
+                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
+
+                    href="#">botella canasta<!--/product_title_content--></a> </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--> </div>
@@ -416,63 +482,76 @@
 
           target="_blank">Pide por Whatsapp</a> </div>
     </section>
-    <section class="u-align-center u-black u-clearfix u-section-5" id="sec-d40f">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+    <section class="u-align-center u-clearfix u-grey-90 u-section-6" id="sec-6a57">
+      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/36josecuervo.webp" data-image-width="645" data-image-height="894"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
+                  src="images/23costeabacana1.webp" data-image-width="874" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
 
-                    href="#"><!--product_title_content-->Tequila Jose Cuervo
-                    Especial</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+                    class="u-product-title-link" href="#"><!--product_title_content-->Costeña Bacana 330</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-1"><a
 
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
+                    class="u-product-title-link" href="#">lata six pack<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/josecuervoplata.webp" data-image-width="600" data-image-height="710"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
+                  src="images/20corona.webp" data-image-width="600" data-image-height="339"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
 
-                    href="#"><!--product_title_content-->Tequila Jose Cuervo
-                    Plata</a></h5>
-                <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
+                    class="u-product-title-link" href="#"><!--product_title_content-->Corona botella</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-2"><a
 
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
+                    class="u-product-title-link" href="#">six pack<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/Olmeca_Altos_Reposado.webp" data-image-width="400"
+                  src="images/21coronita1.webp" data-image-width="600" data-image-height="362"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
 
-                  data-image-height="400"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
+                    class="u-product-title-link" href="#"><!--product_title_content-->Coronita botella</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-3"><a
 
-                    href="#"><!--product_title_content-->Tequila Olmeca Altos
-                    Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
+                    class="u-product-title-link" href="#">botella six pack<!--/product_title_content--></a>
+                </h5>
+                <!--/product_title--> </div>
+            </div>
+            <!--/product_item--><!--product_item-->
+            <div class="u-align-center u-container-style u-products-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
+                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
 
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
+                  src="images/7poker.webp" data-image-width="547" data-image-height="510"><!--/product_image--><!--product_title-->
+                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
+
+                    class="u-product-title-link" href="#"><!--product_title_content-->Póker Original</a></h5>
+                <h5 class="u-align-center u-product-control u-text u-text-4"><a
+
+                    class="u-product-title-link" href="#">lata Six pack<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--> </div>
         </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-76 u-radius-50 u-btn-1"
+            <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-38 u-radius-50 u-btn-1"
 
           target="_blank">Pide por Whatsapp</a> </div>
     </section>
-    <section class="u-align-center u-black u-clearfix u-section-6" id="sec-9eb2">
+    <section class="u-align-center u-black u-clearfix u-section-9" id="sec-f90f">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
@@ -480,13 +559,15 @@
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/34olmecareposado.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
+                  src="images/poker-canasta.webp" data-image-width="581" data-image-height="510"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tequila Olmeca Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+                    href="#"><!--product_title_content-->P</a><a href="../../Downloads/heineken.webp">óker<span
 
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
+                      data-sheets-value="{'1':2,'2':'Heineken 330 ml Lata Six '}"
+
+                      data-sheets-userformat="{'2':12733,'3':{'1':0,'3':1},'5':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'6':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'7':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'8':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'10':1,'11':4,'15':'Calibri','16':12}">
+                     botella canasta</span></a></h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -494,13 +575,14 @@
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/Olmeca%20blanco.webp" data-image-width="600" data-image-height="600"><!--/product_image--><!--product_title-->
+                  src="images/8pokerroja.webp" data-image-width="701" data-image-height="510"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tequila Olmeca Blanco</a></h5>
+                    href="#"><!--product_title_content-->Póker Roja lata</a></h5>
                 <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
 
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
+                    href="#">six pack<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -508,24 +590,22 @@
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/35patronreposadobotella.webp" data-image-width="1000"
-
-                  data-image-height="1000"><!--/product_image--><!--product_title-->
+                  src="images/27stella.webp" data-image-width="875" data-image-height="509"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tequila Patrón Reposado</a></h5>
+                    href="#"><!--product_title_content-->Stella Artois Botella</a></h5>
                 <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
 
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
+                    href="#">Six Pack<!--/product_title_content--></a> </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--> </div>
         </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-76 u-radius-50 u-btn-1"
+         <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-38 u-radius-50 u-btn-1"
 
           target="_blank">Pide por Whatsapp</a> </div>
     </section>
-    <section class="u-align-center u-black u-clearfix u-section-6" id="sec-9eb2">
+    <section class="u-align-center u-black u-clearfix u-section-9" id="sec-f90f">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
@@ -533,13 +613,15 @@
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/Patron%20Silver.webp" data-image-width="750" data-image-height="750"><!--/product_image--><!--product_title-->
+                  src="images/heineken.webp" data-image-width="581" data-image-height="510"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tequila Patrón Silver</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
+                    href="#"><!--product_title_content-->H</a><a href="../../Downloads/heineken.webp">eineken<span
 
-                    href="#">700 ml<!--/product_title_content--></a> </h5>
+                      data-sheets-value="{'1':2,'2':'Heineken 330 ml Lata Six '}"
+
+                      data-sheets-userformat="{'2':12733,'3':{'1':0,'3':1},'5':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'6':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'7':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'8':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'10':1,'11':4,'15':'Calibri','16':12}">330
+                      ml Lata Six Pack</span></a></h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -547,15 +629,14 @@
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/TEQUILA-3-CABALLOS-LICORERA-PREMIUM.webp" data-image-width="600"
-
-                  data-image-height="600"><!--/product_image--><!--product_title-->
+                  src="images/29budweiser.webp" data-image-width="701" data-image-height="510"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tres Caballos Reposado</a></h5>
+                    href="#"><!--product_title_content-->Budweiser</a></h5>
                 <h5 class="u-product-control u-text u-text-2"><a class="u-product-title-link"
 
-                    href="#">1000 ml<!--/product_title_content--></a> </h5>
+                    href="#">269 ml Lata Six Pack<!--/product_title_content--></a>
+                </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -563,126 +644,24 @@
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/1800silver.webp" data-image-width="1000" data-image-height="1000"><!--/product_image--><!--product_title-->
+                  src="images/27stella.webp" data-image-width="875" data-image-height="509"><!--/product_image--><!--product_title-->
                 <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
 
-                    href="#"><!--product_title_content-->Tequila 1800 Silver</a></h5>
+                    href="#"><!--product_title_content-->Stella Artois Botella</a></h5>
                 <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
 
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
+                    href="#">Six Pack<!--/product_title_content--></a> </h5>
                 <!--/product_title--> </div>
             </div>
             <!--/product_item--> </div>
         </div>
-        <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
-
-          class="u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-1"
-
-          target="_blank">VER LISTA DE PRECIOS</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-7" id="carousel_314d">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/1800-Cristalino-.webp" data-image-width="768" data-image-height="768"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila 1800 Cristalino</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/gallery_5.webp" data-image-width="2088" data-image-height="2209"><!--/product_image--><!--product_title-->
-                <h4 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content--><!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/1800reposado.webp" data-image-width="700" data-image-height="700"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Tequila 1800 Reposado</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-         <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
-
-          class="u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-1"
-
-          target="_blank">VER LISTA DE PRECIOS</a> </div>
-    </section>
-    <section class="u-align-center u-black u-clearfix u-section-7" id="carousel_314d">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-1">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/38montelobo.webp" data-image-width="768" data-image-height="768"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-1"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Mezcal Montelobos</a></h5>
-                <h5 class="u-product-control u-text u-text-1"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-2">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/Coctel.webp" data-image-width="2088" data-image-height="2209"><!--/product_image--><!--product_title-->
-                <h4 class="u-product-control u-text u-text-2"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content--><!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-grey-90 u-products-item u-repeater-item u-repeater-item-3">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/Alipussantaana.webp" data-image-width="700" data-image-height="700"><!--/product_image--><!--product_title-->
-                <h5 class="u-product-control u-text u-text-3"> <a class="u-product-title-link"
-
-                    href="#"><!--product_title_content-->Mezcal Alipus Santa Ana</a></h5>
-                <h5 class="u-product-control u-text u-text-3"><a class="u-product-title-link"
-
-                    href="#">750 ml<!--/product_title_content--></a> </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-76 u-radius-50 u-btn-1"
+        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-30 u-radius-50 u-btn-1"
 
           target="_blank">Pide por Whatsapp</a> </div>
     </section>
-    <section class="u-align-center u-clearfix u-image u-shading u-section-8" data-image-width="1600"
+    <section class="u-align-center u-clearfix u-image u-shading u-section-10" data-image-width="1280"
 
-      data-image-height="1201" id="sec-6678">
+      data-image-height="959" id="sec-f31d">
       <div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-large-text u-text u-text-variant u-text-1">¡Haz tu pedido
           Ya!<br>

@@ -276,6 +276,7 @@
                 <h5 class="u-custom-font u-text u-text-font u-text-2">Hambre?</h5>
                 <p class="u-text u-text-3">Completa tu pedido con una deliciosa hamburguesa.</p>
               </div>
+              </div>
             </div>
             <div class="u-align-left u-carousel-item u-container-style u-slide">
               <div class="u-container-layout u-valign-top u-container-layout-2">
@@ -283,7 +284,8 @@
 
                   data-image-width="656" data-image-height="657" src="images/Pola.webp">
                 <h5 class="u-text u-text-4">Hambre?</h5>
-                <p class="u-text u-text-5">Completa tu pedido con una deliciosa hamburguesa.</p>
+                <p class="u-text u-text-3">Completa tu pedido con una deliciosa hamburguesa.</p>
+              </div>
               </div>
             </div>
           </div>

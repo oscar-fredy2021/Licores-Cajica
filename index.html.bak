@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html style=" font-size: 16px;" lang="es">
+<html style="font-size: 16px;" lang="es">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Cigarrillos nacionales e importadas">
+    <meta name="keywords" content="Domicilios Cajicá, Chía y Tabio, Licores Cajicá 24/7">
     <meta name="description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Cigarrillos</title>
+    <title>Inicio</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="stylesheet" href="Cigarrillos.css" media="screen">
+    <link rel="stylesheet" href="Inicio.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer="defer"></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer="defer"></script>
     <link rel="icon" href="images/favicon.ico">
@@ -20,12 +20,12 @@
 		"name": "Licores Cajica 24-7",
 		"logo": "images/Logo.png"
 }</script>
-    <meta property="og:title" content="Cigarrillos">
+    <meta property="og:title" content="Inicio">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="theme-color" content="#478ac9">
   </head>
-  <body class="u-body">
+  <body data-home-page="Inicio.html" data-home-page-title="Inicio" class="u-body">
     <header class="u-align-center-xs u-black u-border-1 u-border-grey-25 u-clearfix u-header u-header"
 
       id="sec-fc10">
@@ -173,26 +173,27 @@
         </nav>
       </div>
     </header>
-    <section class="u-align-center u-clearfix u-image u-shading u-section-1" src=""
+    <section class="u-align-left u-clearfix u-image u-shading u-typography-custom-page-typography-8--Introduction u-white u-section-1"
 
-      data-image-width="1280" data-image-height="857" id="sec-82ca">
-      <div class="u-align-center u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-custom-font u-text u-text-1">Cigarrillos nacionales e
-          importadas&nbsp;</h2>
-        <p class="u-text u-text-2">Cigarrillos nacionales e importadas de las
-          mejores marcas, y a domicilio.&nbsp;<br>
-          ¡Pide ya! En Cajicá, Chía, Tabio, Guaymaral y Briceño.&nbsp;<br>
-          Servicio 24/7. </p>
+      src="" id="sec-8930" data-image-width="817" data-image-height="460">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-custom-font u-text u-text-white u-text-1">Domicilios
+          Cajicá, Chía, Tabio, Guaymaral y Briceño</h1>
+        <div class="u-border-4 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        <h3 class="u-text u-text-body-alt-color u-text-2">3053613029</h3>
+        <p class="u-large-text u-text u-text-variant u-text-white u-text-3">Licores,
+          cervezas, cigarrillos y acompañantes nacionales e importados de las
+          mejores marcas, a cualquier hora del día y a la puerta de tu casa.</p>
         <a href="tel:3053613029" class="u-btn u-btn-round u-button-style u-radius-50 u-white u-btn-1"><span
 
             class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64"
 
-              x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;¡Pide
-          YA! </a> </div>
+              x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;¡PIDE
+          TU DOMICILIO YA! </a> </div>
       <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
 
         target="_blank">Pide por Whatsapp</a> </section>
-    <section class="u-align-center u-clearfix u-grey-90 u-section-2" id="sec-b3dc">
+    <section class="u-align-center u-clearfix u-grey-90 u-section-2" id="sec-3fe3">
       <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
@@ -200,227 +201,91 @@
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/Heets.webp" data-image-width="575" data-image-height="510"><!--/product_image--><!--product_title-->
-                <h4 class="u-align-center u-product-control u-text u-text-1"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Heets<!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
+                  src="images/80432402825-1.jpg" data-image-width="512" data-image-height="512"><!--/product_image-->
+              </div>
             </div>
             <!--/product_item--><!--product_item-->
             <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/luckygin.webp" data-image-width="959" data-image-height="983"><!--/product_image--><!--product_title-->
-                <h4 class="u-align-center u-product-control u-text u-text-2"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Lucky
-                    Gin</a></h4>
-                <h4 class="u-align-center u-product-control u-text u-text-2"><a
-
-                    class="u-product-title-link" href="#">20 unid<!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
+                  src="images/JP-CHENET-fashion.webp" data-image-width="339" data-image-height="343"><!--/product_image-->
+              </div>
             </div>
             <!--/product_item--><!--product_item-->
             <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/descarga.webp" data-image-width="225" data-image-height="225"><!--/product_image--><!--product_title-->
-                <h4 class="u-align-center u-product-control u-text u-text-3"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Lucky
-                    Gin</a></h4>
-                <h4 class="u-align-center u-product-control u-text u-text-3"><a
-
-                    class="u-product-title-link" href="#">10 unid<!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
+                  src="images/63bombay.webp" data-image-width="640" data-image-height="744"><!--/product_image-->
+              </div>
             </div>
             <!--/product_item--><!--product_item-->
             <div class="u-align-center u-container-style u-products-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
 
-                  src="images/lucky-strike-daiquiri20-copia-1.webp" data-image-width="480"
-
-                  data-image-height="480"><!--/product_image--><!--product_title-->
-                <h4 class="u-align-center u-product-control u-text u-text-4"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Lucky
-                    Daiqui</a></h4>
-                <h4 class="u-align-center u-product-control u-text u-text-4"><a
-
-                    class="u-product-title-link" href="#">20 unid<!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-18 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-clearfix u-grey-90 u-section-3" id="sec-d9f5">
-      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/luckidaiqui10.webp" data-image-width="708" data-image-height="708"><!--/product_image--><!--product_title-->
-                <h4 class="u-align-center u-product-control u-text u-text-1"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Lucky
-                    Daiqui</a></h4>
-                <h4 class="u-align-center u-product-control u-text u-text-1"><a
-
-                    class="u-product-title-link" href="#">10 unid<!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/MARLBORO-ROJO-X-20-UND.webp" data-image-width="756"
-
-                  data-image-height="756"><!--/product_image--><!--product_title-->
-                <h4 class="u-align-center u-product-control u-text u-text-2"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Marlboro
-                    rojo</a></h4>
-                <h4 class="u-align-center u-product-control u-text u-text-2"><a
-
-                    class="u-product-title-link" href="#">20 unid<!--/product_title_content--></a>
-                </h4>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/cigarrillos-marlboro-rojo-10-und1.webp" data-image-width="749"
-
-                  data-image-height="1000"><!--/product_image--><!--product_title-->
-                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Marlboro
-                    rojo</a></h5>
-                <h5 class="u-align-center u-product-control u-text u-text-3"><a
-
-                    class="u-product-title-link" href="#">10 unid<!--/product_title_content--></a>
-                </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
-
-                  src="images/Marlborofusion20.webp" data-image-width="600" data-image-height="600"><!--/product_image--><!--product_title-->
-                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Marlboro
-                    Fusion</a></h5>
-                <h5 class="u-align-center u-product-control u-text u-text-4"><a
-
-                    class="u-product-title-link" href="#">20 unid<!--/product_title_content--></a>
-                </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--> </div>
-        </div>
-        <!--/products--> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-18 u-radius-50 u-btn-1"
-
-          target="_blank">Pide por Whatsapp</a> </div>
-    </section>
-    <section class="u-align-center u-clearfix u-grey-90 u-section-4" id="carousel_394a">
-      <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
-        <div class="u-expanded-width u-products u-products-1">
-          <div class="u-repeater u-repeater-1"><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
-
-                  src="images/Marlboro-Fusion-Morado-x-1o-unidades.webp" data-image-width="780"
-
-                  data-image-height="780"><!--/product_image--><!--product_title-->
-                <h5 class="u-align-center u-product-control u-text u-text-1"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Marlboro
-                    Fusion</a></h5>
-                <h5 class="u-align-center u-product-control u-text u-text-1"><a
-
-                    class="u-product-title-link" href="#">10 unid<!--/product_title_content--></a>
-                </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
-
-                  src="images/Marlboroblanco.webp" data-image-width="350" data-image-height="446"><!--/product_image--><!--product_title-->
-                <h5 class="u-align-center u-product-control u-text u-text-2"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Marlboro
-                    blanco</a></h5>
-                <h5 class="u-align-center u-product-control u-text u-text-2"><a
-
-                    class="u-product-title-link" href="#">10 unid<!--/product_title_content--></a>
-                </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
-
-                  src="images/Rothmans20.webp" data-image-width="1227" data-image-height="1311"><!--/product_image--><!--product_title-->
-                <h5 class="u-align-center u-product-control u-text u-text-3"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Rothmans
-                    azul</a></h5>
-                <h5 class="u-align-center u-product-control u-text u-text-3"><a
-
-                    class="u-product-title-link" href="#">20 unid<!--/product_title_content--></a>
-                </h5>
-                <!--/product_title--> </div>
-            </div>
-            <!--/product_item--><!--product_item-->
-            <div class="u-align-center u-container-style u-products-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
-                <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
-
-                  src="images/Rothmans10.webp" data-image-width="1103" data-image-height="1139"><!--/product_image--><!--product_title-->
-                <h5 class="u-align-center u-product-control u-text u-text-4"> <a
-
-                    class="u-product-title-link" href="#"><!--product_title_content-->Rothmans
-                    azul</a></h5>
-                <h5 class="u-align-center u-product-control u-text u-text-4"><a
-
-                    class="u-product-title-link" href="#">10 unid<!--/product_title_content--></a>
-                </h5>
-                <!--/product_title--> </div>
+                  src="images/Tonica.webp" data-image-width="1000" data-image-height="1000"><!--/product_image-->
+              </div>
             </div>
             <!--/product_item--> </div>
         </div>
         <!--/products--> <a href="https://docs.google.com/spreadsheets/d/16ae2s_L8EvH4PXiAIr0NoKWigI3lculqoIlkOI8VKYY/edit?usp=sharing"
 
-          class="u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-1"
+          class="u-btn u-btn-round u-button-style u-custom-color-3 u-radius-50 u-btn-1"
 
-          target="_blank">VER LISTA DE PRECIOS</a> </div>
+          target="_blank">Ver lista de precios</a> </div>
     </section>
-    <section class="u-align-center u-clearfix u-image u-shading u-section-5" data-image-width="1280"
+    <section class="u-align-center u-clearfix u-image u-lightbox u-shading u-section-3"
 
-      data-image-height="857" id="sec-846c">
-      <div class="u-clearfix u-sheet u-valign-middle-lg u-sheet-1">
+      id="sec-4e76" data-image-width="1920" data-image-height="1441">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-custom-font u-text u-text-1">Licores 24/7</h2>
+        <div id="carousel-bd35" data-interval="5000" data-u-ride="carousel" class="u-carousel u-slider u-slider-1">
+          <ol class="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
+            <li data-u-target="#carousel-bd35" class="u-active u-grey-30" data-u-slide-to="0"><br>
+            </li>
+            <li data-u-target="#carousel-bd35" class="u-grey-30" data-u-slide-to="1"><br>
+            </li>
+          </ol>
+          <div class="u-carousel-inner" role="listbox">
+            <div class="u-active u-align-left u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-valign-top u-container-layout-1">
+                <img alt="" class="u-expanded-width u-image u-image-default u-image-1"
+
+                  data-image-width="532" data-image-height="533" src="images/pag1-1.webp">
+                <h5 class="u-custom-font u-text u-text-font u-text-2">Hambre?</h5>
+                <p class="u-text u-text-3">Completa tu pedido con una deliciosa hamburguesa.</p>
+              </div>
+            </div>
+            <div class="u-align-left u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-valign-top u-container-layout-2">
+                <img alt="" class="u-expanded-width u-image u-image-default u-image-2"
+
+                  data-image-width="656" data-image-height="657" src="images/Pola.webp">
+                <h5 class="u-text u-text-4">Hambre?</h5>
+                <p class="u-text u-text-3">Completa tu pedido con una deliciosa hamburguesa.</p>
+              </div>
+              </div>
+            </div>
+          </div>
+          <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-grey-60 u-icon-circle u-spacing-9 u-carousel-control-1"
+
+            href="#carousel-bd35" role="button" data-u-slide="prev"> <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
+            </span> <span class="sr-only">+Previous</span> </a> <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-grey-60 u-icon-circle u-spacing-9 u-carousel-control-2"
+
+            href="#carousel-bd35" role="button" data-u-slide="next"> <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
+            </span> <span class="sr-only">+Next</span> </a> </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-image u-shading u-section-4" data-image-width="817"
+
+      data-image-height="460" id="sec-fac4">
+      <div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-large-text u-text u-text-variant u-text-1">¡Haz tu pedido
           Ya!<br>
           Licores, cervezas, cigarrillos y acompañantes nacionales e importados
@@ -462,7 +327,7 @@
     </section>
     <footer class="u-align-center u-clearfix u-footer u-grey-90 u-footer" id="sec-7602">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Licores Cajic'a
+        <p class="u-small-text u-text u-text-variant u-text-1">Licores Cajicá
           24/7, Todos los derechos reservados.</p>
       </div>
     </footer>
