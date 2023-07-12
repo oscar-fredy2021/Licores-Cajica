@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Domicilios Cajicá, Chía y Tabio, Licores Cajicá 24/7">
+    <meta name="keywords" content="Domicilios Cajicá, Chía, Tabio, Guaymaral y Briceño, Licores Cajicá 24/7">
     <meta name="description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Inicio</title>
@@ -22,10 +22,10 @@
 }</script>
     <meta property="og:title" content="Inicio">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Licores a domicilio 24/7 en Cajicá, Chía, Tabio, Guaymaral y Briceño">
+    <meta property="og:description" content="Licores a domicilio 24/7 en Cajicá, Chía y Tabio">
     <meta name="theme-color" content="#478ac9">
   </head>
-  <body data-home-page="Inicio.html" data-home-page-title="Inicio" class="u-body">
+  <body class="u-body">
     <header class="u-align-center-xs u-black u-border-1 u-border-grey-25 u-clearfix u-header u-header"
 
       id="sec-fc10">
@@ -46,9 +46,9 @@
                 style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve"
 
                 class="u-svg-content"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
-            </span> </button> <input class="u-search-input" name="search" placeholder="Buscar"
+            </span> </button> <input class="u-search-input" name="search" value=""
 
-            type="search"> </form>
+            placeholder="Buscar" type="search"> </form>
         <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font" style="font-family: Candal;">
             <a class="u-button-style u-custom-text-active-color u-custom-text-hover-color u-nav-link"
@@ -189,10 +189,10 @@
             class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64"
 
               x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;¡PIDE
-          TU DOMICILIO YA! </a> </div>
-      <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
+          TU DOMICILIO YA! </a> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
 
-        target="_blank">Pide por Whatsapp</a> </section>
+          target="_blank">Pide por Whatsapp</a> </div>
+    </section>
     <section class="u-align-center u-clearfix u-grey-90 u-section-2" id="sec-3fe3">
       <div class="u-clearfix u-sheet u-sheet-1"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width u-products u-products-1">
@@ -201,7 +201,7 @@
               <div class="u-container-layout u-similar-container u-container-layout-1"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-1"
 
-                  src="images/80432402825-1.jpg" data-image-width="512" data-image-height="512"><!--/product_image-->
+                  src="images/pide-ya.webp" data-image-width="512" data-image-height="512"><!--/product_image-->
               </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -209,7 +209,7 @@
               <div class="u-container-layout u-similar-container u-container-layout-2"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-2"
 
-                  src="images/JP-CHENET-fashion.webp" data-image-width="339" data-image-height="343"><!--/product_image-->
+                  src="images/chivas-promocion.webp" data-image-width="339" data-image-height="343"><!--/product_image-->
               </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -217,7 +217,7 @@
               <div class="u-container-layout u-similar-container u-container-layout-3"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-3"
 
-                  src="images/63bombay.webp" data-image-width="640" data-image-height="744"><!--/product_image-->
+                  src="images/haig-promocion.webp" data-image-width="640" data-image-height="744"><!--/product_image-->
               </div>
             </div>
             <!--/product_item--><!--product_item-->
@@ -225,7 +225,7 @@
               <div class="u-container-layout u-similar-container u-container-layout-4"><!--product_image-->
                 <img alt="" class="u-expanded-width u-image u-image-default u-product-control u-image-4"
 
-                  src="images/Tonica.webp" data-image-width="1000" data-image-height="1000"><!--/product_image-->
+                  src="images/hamburguesa.webp" data-image-width="1000" data-image-height="1000"><!--/product_image-->
               </div>
             </div>
             <!--/product_item--> </div>
@@ -253,19 +253,19 @@
               <div class="u-container-layout u-valign-top u-container-layout-1">
                 <img alt="" class="u-expanded-width u-image u-image-default u-image-1"
 
-                  data-image-width="532" data-image-height="533" src="images/pag1-1.webp">
-                <h5 class="u-custom-font u-text u-text-font u-text-2">Hambre?</h5>
-                <p class="u-text u-text-3">Completa tu pedido con una deliciosa hamburguesa.</p>
+                  data-image-width="532" data-image-height="533" src="images/promocion1.webp">
+                <h5 class="u-custom-font u-text u-text-font u-text-2">Haz tu pedido ¡YA!</h5>
+                <p class="u-text u-text-3">Aprovecha nuestros precios especiales.</p>
               </div>
             </div>
             <div class="u-align-left u-carousel-item u-container-style u-slide">
               <div class="u-container-layout u-valign-top u-container-layout-2">
                 <img alt="" class="u-expanded-width u-image u-image-default u-image-2"
 
-                  data-image-width="656" data-image-height="657" src="images/Pola.webp">
-                <h5 class="u-text u-text-4">Hambre?</h5>
-                <p class="u-text u-text-3">Completa tu pedido con una deliciosa hamburguesa.</p>
-              </div>
+                  data-image-width="656" data-image-height="657" src="images/promocion2.webp">
+                <h5 class="u-custom-font u-text u-text-font u-text-2">Hambre?</h5>
+                <p class="u-text u-text-3">Completa tu pedido con una deliciosa
+                  hamburguesa.</p>
               </div>
             </div>
           </div>
@@ -304,7 +304,7 @@
               <svg x="0px" y="0px" viewBox="0 0 112 112" id="svg-f107" class="u-svg-content"><path
 
                   d="M75.5,28.8H65.4c-1.5,0-4,0.9-4,4.3v9.4h13.9l-1.5,15.8H61.4v45.1H42.8V58.3h-8.8V42.4h8.8V32.2 c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg>
-            </span> </a> <a class="u-social-url" target="_blank" href="https://www.instagram.com/cajica24h/"
+            </span> </a> <a class="u-social-url" target="_blank" href="https://www.instagram.com/licorescajica/"
 
             title="Licores Cajicá"><span class="u-icon u-icon-circle u-social-icon u-social-instagram u-icon-2">
               <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112"
@@ -323,11 +323,13 @@
             class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64"
 
               x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;¿Haz
-          tu pedido Ya! </a> </div>
+          tu pedido Ya! </a> <a href="https://wa.me/+573053613029" class="u-btn u-btn-round u-button-style u-custom-color-6 u-radius-50 u-btn-1"
+
+          target="_blank">Pide por Whatsapp</a> </div>
     </section>
     <footer class="u-align-center u-clearfix u-footer u-grey-90 u-footer" id="sec-7602">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Licores Cajicá
+        <p class="u-small-text u-text u-text-variant u-text-1">Licores Cajic'a
           24/7, Todos los derechos reservados.</p>
       </div>
     </footer>
